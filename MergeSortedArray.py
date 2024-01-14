@@ -10,7 +10,7 @@ class Solution:
                 nums1[p] = nums1[m]
                 m -= 1
             else:
-                nums1[p = nums2[n]
+                nums1[p] = nums2[n]
                 n -= 1
 
             p -= 1
